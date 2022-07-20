@@ -31,3 +31,15 @@ f. 22r
 καὶ ἀγρυπνίας . καὶ ἐν τῶ ἀριστερῶ μέρει παράκειται
 ἀπλὴν (?) . καὶ ἔστι καθ' ἑαυτοῦ ψυχρὸς καὶ ξηρός . καὶ ἐάν ἐστιν
 ἀπὸ τοῦ φλέγματος . αἰσθάνεται ὁ πάσχων βάρος καὶ ψυχρότητα 
+
+f. 22v
+
+ἐν τῆ κεφαλῆ . καὶ τὸ πλεῖστον πάσχει εἰς τὸν ὀπιθοκέφαλον. 
+(2) ὁ δὲ σοφώτατος γαληνὸς ἐν τῶ μεμαθηματικῶ βιβλίω τοιάδε
+ἔλεξεν . ὅτι ἡ κεφαλὴ 
+
+... 
+
+looks like bottom of f. 26v might be the beginning of (13)
+
+f. 28r is interesting - ibn Masawayh is described as iohannes the damascene monk, isaac ibn imran is just ἰσαὰκ ὑιοῦ ἰμρὰν (second rubric up fr bottom) 
