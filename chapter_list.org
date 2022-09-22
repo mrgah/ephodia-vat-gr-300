@@ -1,0 +1,25 @@
+#+TODO: TRANSCRIPTION_STARTED TRANSCRIPTION_DONE SENT_OFF REVISIONS_RECEIVED | DONE
+List of chapters and transcription status of Vat. gr. 300
+* Book I
+** TRANSCRIPTION_STARTED I.i
+** TRANSCRIPTION_DONE I.ii
+** TRANSCRIPTION_DONE I.iii
+** TRANSCRIPTION_DONE I.iv
+the latter part of this transcription is a little rough
+αλχανναν ??
+the references to sarakenisti and grikisti in here are v interesting
+fn 90 in the Arabic is generally correct, I think-- Constantine is kind of doing his own thing in this chapter. but there's some stuff in the Gk (or at least Vat gr 300) that doesn't line up with the extant Ar text; the aphanistika trichon section on f. 17r does not appear to be in the Arabic, for ex. (and isn't in BnF grec 2311, either; cf. f. 8r)
+-> but why did both Constantine _and_ Phillip Xeros feel the need to freelance in this particular chapter? surely the subject matter helped, but was there some textual thing in their source MSS that prompted them to make their changes?
+** TRANSCRIPTION_DONE I.v - f. 17v
+** TRANSCRIPTION_DONE I.vi - f. 18v
+τὰ φύλλα τῆς μυρίκης . ὅ λέγεται τάρφε is interesting
+** TRANSCRIPTION_DONE I.vii - f. 19v
+ends with εἰ θεῶ φίλον, interestingly, like the Arabic text
+** TRANSCRIPTION_DONE I.viii - f. 20r
+the frequent references to sarakhnisti are interesting here; comparing Constantine's use of memithe might be interesting
+** TRANSCRIPTION_DONE I.ix - f. 21r 
+λεγεται δε αρραβιστι !
+** TRANSCRIPTION_DONE I.x
+started, mostly wanted section on citations of Arabic authors
+* Book II
+* 
